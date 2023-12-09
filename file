@@ -1,4 +1,9 @@
 #!/bin/bash
 echo "hi there"
+
+
+
+echo "welcome home"
+=======
 echo "bye"
 #end
